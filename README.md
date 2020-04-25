@@ -1,0 +1,2 @@
+# jsdelivercdn
+jsscript
